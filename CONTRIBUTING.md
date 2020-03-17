@@ -1,5 +1,7 @@
 # Contributing
 
+test text
+
 Your contributions are always welcome!
 
 ## Guidelines
